@@ -1,7 +1,7 @@
 #!/bin/bash
 
 TARGET_DIR=~/scripts
-SWITCH_URL="https://raw.githubusercontent.com/liguilong/jdk-switcher/main/switch_jdk.sh"
+SWITCH_URL="https://github.com/594373646/jdk-switcher/blob/main/switch_jdk.sh"
 
 # 创建目录
 mkdir -p $TARGET_DIR
